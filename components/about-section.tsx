@@ -7,35 +7,35 @@ import { Code, Database, FileCode, GitBranch, Globe } from "lucide-react"
 
 const devJourney = [
   {
-    year: "2018",
+    year: "2023",
     title: "First Line of Code",
     description: "Started with HTML & CSS",
     icon: <Code className="w-5 h-5" />,
     color: "bg-blue-500",
   },
   {
-    year: "2019",
+    year: "2023",
     title: "JavaScript Fundamentals",
     description: "Learned JS basics & DOM manipulation",
     icon: <FileCode className="w-5 h-5" />,
     color: "bg-yellow-500",
   },
   {
-    year: "2020",
+    year: "2024",
     title: "Backend Development",
     description: "Explored Node.js & databases",
     icon: <Database className="w-5 h-5" />,
     color: "bg-green-500",
   },
   {
-    year: "2021",
+    year: "2024",
     title: "Full Stack Projects",
     description: "Built complete web applications",
     icon: <Globe className="w-5 h-5" />,
     color: "bg-purple-500",
   },
   {
-    year: "2022",
+    year: "2025",
     title: "Open Source Contributions",
     description: "Started contributing to open source",
     icon: <GitBranch className="w-5 h-5" />,
