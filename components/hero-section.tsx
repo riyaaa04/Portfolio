@@ -8,7 +8,7 @@ import { Terminal } from "lucide-react"
 export default function HeroSection() {
   const [showTerminal, setShowTerminal] = useState(false)
   const [terminalText, setTerminalText] = useState("")
-  const fullText = "I'm a Full Stack Developer and UI/UX Designer born on 04.09.2005"
+  const fullText = "I'm a Full Stack Developer and UI/UX Designer."
   const typingSpeed = 70
   const cursorRef = useRef<HTMLSpanElement>(null)
 
